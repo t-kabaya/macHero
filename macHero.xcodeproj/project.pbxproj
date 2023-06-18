@@ -14,6 +14,7 @@
 		6B88AEA12A25F2B10074314A /* macHeroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B88AEA02A25F2B10074314A /* macHeroTests.swift */; };
 		6B88AEAB2A25F2B10074314A /* macHeroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B88AEAA2A25F2B10074314A /* macHeroUITests.swift */; };
 		6B88AEAD2A25F2B10074314A /* macHeroUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B88AEAC2A25F2B10074314A /* macHeroUITestsLaunchTests.swift */; };
+		6B89FEA82A3D82AB00A1D165 /* alerm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6B89FEA72A3D82AB00A1D165 /* alerm.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		6B88AEA62A25F2B10074314A /* macHeroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = macHeroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B88AEAA2A25F2B10074314A /* macHeroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = macHeroUITests.swift; sourceTree = "<group>"; };
 		6B88AEAC2A25F2B10074314A /* macHeroUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = macHeroUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6B89FEA72A3D82AB00A1D165 /* alerm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alerm.mp3; path = ../../../Downloads/alerm.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				6B88AE8E2A25F2AE0074314A /* macHeroApp.swift */,
 				6B88AE902A25F2AE0074314A /* ContentView.swift */,
 				6B88AE922A25F2B10074314A /* Assets.xcassets */,
+				6B89FEA72A3D82AB00A1D165 /* alerm.mp3 */,
 				6B88AE972A25F2B10074314A /* macHero.entitlements */,
 				6B88AE942A25F2B10074314A /* Preview Content */,
 			);
@@ -235,6 +238,7 @@
 			files = (
 				6B88AE962A25F2B10074314A /* Preview Assets.xcassets in Resources */,
 				6B88AE932A25F2B10074314A /* Assets.xcassets in Resources */,
+				6B89FEA82A3D82AB00A1D165 /* alerm.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
